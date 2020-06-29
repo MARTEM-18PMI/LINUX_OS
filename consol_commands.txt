@@ -1,0 +1,5 @@
+gcc -o daem main.c
+ps
+kill *pid of the process*
+kill *pid of the process*
+ps
